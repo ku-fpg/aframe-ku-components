@@ -1,0 +1,24 @@
+{
+  "name": "aframe-ku-components",
+  "version": "1.0.0",
+  "description": "Components for aframe for the University of Kansas Sunflower Reality Lab",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx live-server --https=`pwd`/node_modules/live-server-https",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ku-fpg/aframe-ku-components.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/ku-fpg/aframe-ku-components/issues"
+  },
+  "homepage": "https://github.com/ku-fpg/aframe-ku-components#readme",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "live-server-https": "0.0.2"
+  }
+}
