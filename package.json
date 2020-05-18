@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ku-fpg/aframe-ku-components#readme",
   "dependencies": {
+    "browserify": "^16.5.1",
     "live-server": "^1.2.1",
     "live-server-https": "0.0.2"
   }
